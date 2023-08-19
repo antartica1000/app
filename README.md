@@ -1,5 +1,5 @@
-antartica.org
+documents - antartica.org
 -----------------------------------------------------------------------------------
-welcome to antartica.org webpage development
+welcome to the document directory
 -----------------------------------------------------------------------------------
 Copyright © Antartica.Org
